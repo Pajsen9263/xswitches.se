@@ -1,0 +1,38 @@
+{
+    "Switch1": {
+      "Stars": 4,
+      "Model": "Cisco Catalyst 2960-s",
+      "Birth": 1994,
+      "Sexyness": 10,
+      "image": "cc2960"
+    },
+    "Switch2": {
+      "Stars": 3,
+      "Model": "Netgear ProSafe GS724T",
+      "Birth": 2005,
+      "Sexyness": 7,
+      "image": "netgear_gs724t"
+    },
+    "Switch3": {
+      "Stars": 5,
+      "Model": "Juniper EX2200",
+      "Birth": 2010,
+      "Sexyness": 8,
+      "image": "juniper_ex2200"
+    },
+    "Switch4": {
+      "Stars": 2,
+      "Model": "TP-Link TL-SG108",
+      "Birth": 2017,
+      "Sexyness": 6,
+      "image": "tplink_tlsg108"
+    },
+    "Switch5": {
+      "Stars": 1,
+      "Model": "D-Link DES-1008D",
+      "Birth": 2000,
+      "Sexyness": 4,
+      "image": "dlink_des1008d"
+    }
+  }
+  
